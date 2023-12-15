@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  2 00:41:42 2020
 
-@author: Wilson and Roye
+@author: Wilson
 """
 
 # Question 1- Map of Caribbean Showing Average Air Temperature 
