@@ -9,7 +9,6 @@
 - [Data Analysis](data-analysis)
 - [Results/Findings](results/findings)
 - [Recommendations](recommendations)
-- [Limitations](limitations)
 - [References](references)
 
 
@@ -40,7 +39,7 @@ In the initial data preparation phase the following was done:
 EDA involved exploring the climate change data to answer important questions such as:
 
 - Is there a noticeable trend in temperature over time?
-- How have CO2 emissions changed over the specified time period?
+- How have CO2 emissions changed over the specified period?
 - Is there a correlation between temperature and CO2 emissions?
 - Are there strong correlations between temperature, CO2 emissions, sea level rise, precipitation, humidity, and wind speed?
 
@@ -59,12 +58,19 @@ plt.show()
 ```
 
 ## Results/Findings
+-The fluctuating trend suggests variations in global CO2 emissions over time.
+-The peaks likely correspond to periods of increased industrial activity, economic growth, or other factors contributing to higher emissions.
+-The troughs may indicate efforts to reduce emissions, policy changes, or global events affecting energy consumption. eg, covid-19 which caused emissions
+to decrease around 2020-2021
 
+- Canada’s sharp decline around 2005 and its consistently lower emissions compared to the USA highlight key differences between the two countries in their approach to managing CO2 emissions
 
 ## Recommendations
+Based on the trends in CO2 emissions for Canada and the USA, here are some recommendations for both countries:
+-Continue Emission Reduction Efforts: Canada has made significant progress in reducing emissions since around 2005. To maintain this positive trend, the country should continue implementing policies and 
+  initiatives aimed at further reducing CO2 emissions.
+-Strengthen International Cooperation: Collaborate with other nations to address global emissions collectively. International agreements and partnerships can accelerate emission reduction efforts.
 
-
-## Limitations
 
 ## References
 
