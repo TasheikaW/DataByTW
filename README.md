@@ -58,10 +58,12 @@ plt.show()
 ```
 
 ## Results/Findings
+- There is no consistent upward or downward trend in the temperature; instead, it oscillates
 - The fluctuating trend suggests variations in global CO2 emissions over time.
 - The peaks likely correspond to periods of increased industrial activity, economic growth, or other factors contributing to higher emissions.
 - The troughs may indicate efforts to reduce emissions, policy changes, or global events affecting energy consumption. eg, covid-19 which caused emissions to decrease around 2020-2021
 - Canada’s sharp decline around 2005 and its consistently lower emissions compared to the USA highlight key differences between the two countries in their approach to managing CO2 emissions
+- Based on the data set, there is no correlation between the CO2 Emission and the temperature.
 
 ## Recommendations
 Based on the trends in CO2 emissions for Canada and the USA, here are some recommendations for both countries:
@@ -71,6 +73,7 @@ Based on the trends in CO2 emissions for Canada and the USA, here are some recom
 
 
 ## References
+[Dataset link](https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset/data?select=climate_change_data.csv)
 
 
 
